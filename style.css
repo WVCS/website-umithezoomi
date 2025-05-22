@@ -27,3 +27,31 @@ h3:hover{
   text-transform: uppercase;
   text-shadow: 2px 2px #CEE5F2;
 }
+
+
+nav{
+  list-style-type: none;
+  background-color: #78AACE;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 30px;
+}
+
+li{
+  display: inline;
+  display: blocks;
+  padding: 30px  100px;
+}
+
+li a{
+  text-decoration: none;
+  color: #CEE5F2;
+}
+
+li a:hover{
+  background-color: #CEE5F2;
+  color: #78AACE;
+  padding: 30.5px 40px;
+}
