@@ -61,3 +61,10 @@ body{
   background-color: #78AACE;
 }
 
+h1{
+color: #CEE5F2;
+text-decoration: overline underline 3px #CEE5F2;
+letter-spacing: 3px;
+font-size: 30px;
+text-shadow: 2px 2px #1D263B;
+}
